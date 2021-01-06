@@ -1,1 +1,2 @@
 # Diabetes-Prediction
+This is a project that uses various classification algorithms in order to predict the patients that are likely to be diabetic,the data set is from the National institute of Diabetes and Digestive and Kidney Diseases. The algorithms sampled include, Gradient Boosting Classifier,Random Forest Classifier, Logistic regression,Kneighbors Classifier, Decision Tree Classifier, SVC and XGB Classifier.
